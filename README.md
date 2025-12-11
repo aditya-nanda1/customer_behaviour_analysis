@@ -54,7 +54,7 @@ The dashboard visualises:
 https://app.powerbi.com/view?r=eyJrIjoiOWRlMWNjNmItM2I5MC00OGFmLWIwM2QtNTYyYmQyMDQ2NTEzIiwidCI6IjZlZDBiYjNjLTBmNDQtNDE2NS1iODllLThkN2Q4MGJiNTUyMiJ9
 
 ### Dashboard Screenshots  
-(Add the images to your repo and reference them here)
+![Dashboard Screenshot](dashboard1.png)
 
 ---
 
